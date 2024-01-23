@@ -1,3 +1,5 @@
+Fork of [Tom32i/gamepad.js](https://github.com/Tom32i/gamepad.js)
+
 gamepad.js
 ================
 
